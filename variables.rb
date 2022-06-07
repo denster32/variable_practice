@@ -19,3 +19,13 @@ volume = 3.32442
 married = false
 sunny = true
 cloudy = false
+
+## Reassign String values
+name = "Mike"
+dog = "Kevin"
+mom = "Karen"
+
+## Puts Statements
+puts 5+5
+puts "I like sleep"
+puts "Fun "*3
