@@ -14,3 +14,8 @@ dogs = 1
 time = 2230.23
 balance = 37263.93
 volume = 3.32442
+
+## Booleans
+married = false
+sunny = true
+cloudy = false
